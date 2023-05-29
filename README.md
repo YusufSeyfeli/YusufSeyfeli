@@ -1,15 +1,18 @@
-### Hi there 👋
+
 
  <div id="header" align="center">
 <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="400" />
 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
 </div>
 
 
+<div id="header2" align="center" fontsize= px>
+  Hi there 👋
 
+</div>
 
-
+  
 
 
 
